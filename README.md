@@ -7,7 +7,7 @@
 
 ---
 # **Stack**
-  #### Strong
+  #### **Strong**
   - JS(ES6), Node.js, Express.js, MongoDB, MariaDB, Socket.io, Pug
   #### Knowledge
   - React, React Native

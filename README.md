@@ -2,8 +2,8 @@
 
 ---
 # **Contact**
-  ##### E-mail : zz0905k@naver.com
-  ##### Discord : kimjunseo#4807
+  #### E-mail : zz0905k@naver.com
+  #### Discord : kimjunseo#4807
 
 ---
 # **Stack**
@@ -17,11 +17,11 @@
 
 #### **Kiwontech - Technical support team**
 
-##### 2021.07 ~ 2022.10 / Junior manager
+#### 2021.07 ~ 2022.10 / Junior manager
 
-- ##### Identify & Analyze malicious email(Phishing, Scam, malware) trends
-- ##### Analyze malicious email patterns & Block using regex
-- ###### Operating Security Solution
-    - ###### Respond System/Network Error
-    - ###### Monitoring System Availability
-- ##### Explain all of technical information to a customer
+- #### Identify & Analyze malicious email(Phishing, Scam, malware) trends
+- #### Analyze malicious email patterns & Block using regex
+- #### Operating Security Solution
+    - #### Respond System/Network Error
+    - #### Monitoring System Availability
+- #### Explain all of technical information to a customer

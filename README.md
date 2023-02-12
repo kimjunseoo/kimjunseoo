@@ -20,7 +20,7 @@
 #### 2021.07 ~ 2022.10 / Junior manager
 
 - #### Identify & Analyze malicious email(Phishing, Scam, malware) trends
-- #### Analyze malicious email patterns & Block using regex
+- #### Analyze malicious email patterns & Block using RegExr
 - #### Operating Security Solution
     - #### Respond System/Network Error
     - #### Monitoring System Availability

@@ -13,17 +13,6 @@
   - React, React Native
 
 ---
-# **Certification**
-  #### Certificate Name : 정보처리 기능사
-  ###### Acquisition date : 2022-09-16
-  
-  #### Certificate Name : 네트워크 관리사 2급
-  ###### Acquisition date : 2021-10-19
-  
-  #### ertificate Name : 리눅스 마스터 2급
-  ###### Acquisition date : 2021-07-02
-
----
 # **Career**
 
 #### **Kiwontech - Technical support team**

@@ -3,7 +3,7 @@
 
 ![giphy](https://user-images.githubusercontent.com/76796679/230342155-b2cb0241-4545-41b5-8db1-c2ec3d9f7175.gif)
   
-### [Profile](https://kimjunseoo.notion.site/Kim-Junseo-074a9702eaca4875be1b6c87f937aaaf)
+### [Profile](https://kimjunseoo.github.io/profile/)
   
 ---
   

@@ -5,7 +5,10 @@
   
 Hi, It's my [Profile](https://kimjunseoo.github.io/profile/)
   
----
+
   
+<!-- 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zz0905k)](https://solved.ac/zz0905k/) 
+-->
+ 
 </div>

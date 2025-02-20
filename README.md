@@ -5,6 +5,7 @@ Name : Kim Junseo <br/>
 E-mail : zz0905k@naver.com <br/>
 Blog : https://blog.kimjunseo.me <br/>
 
+<!--
 ## ⚒️ Skills
 | Classification | Skills |
 | --- | --- |
@@ -19,6 +20,6 @@ Blog : https://blog.kimjunseo.me <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zz0905k)](https://solved.ac/zz0905k/) <br>
 ![aws-certified-solutions-architect-associate (2)](https://github.com/user-attachments/assets/18809277-ae14-42cb-b677-ee7c6c8c4e30)
 ![aws-certified-cloud-practitioner (6)](https://github.com/user-attachments/assets/b98b1b80-f7b8-49a8-8ae2-6290b4f45145) 
-
+-->
 
 </div>
